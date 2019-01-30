@@ -10,4 +10,4 @@ def prime?(num)
   true
 end
 
-prime?(2)
+puts prime?(2)
